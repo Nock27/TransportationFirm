@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8CDA1B-EF84-48ED-A6CD-107DCA31DD00}|TransportatioFirm\\TransportatioFirm.vcxproj|C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\Menu_helper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A8CDA1B-EF84-48ED-A6CD-107DCA31DD00}|TransportatioFirm\\TransportatioFirm.vcxproj|solutionrelative:TransportatioFirm\\Menu_helper.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8CDA1B-EF84-48ED-A6CD-107DCA31DD00}|TransportatioFirm\\TransportatioFirm.vcxproj|C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A8CDA1B-EF84-48ED-A6CD-107DCA31DD00}|TransportatioFirm\\TransportatioFirm.vcxproj|solutionrelative:TransportatioFirm\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8CDA1B-EF84-48ED-A6CD-107DCA31DD00}|TransportatioFirm\\TransportatioFirm.vcxproj|C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A8CDA1B-EF84-48ED-A6CD-107DCA31DD00}|TransportatioFirm\\TransportatioFirm.vcxproj|solutionrelative:TransportatioFirm\\Driver.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A8CDA1B-EF84-48ED-A6CD-107DCA31DD00}|TransportatioFirm\\TransportatioFirm.vcxproj|C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\TransportationFirm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7A8CDA1B-EF84-48ED-A6CD-107DCA31DD00}|TransportatioFirm\\TransportatioFirm.vcxproj|solutionrelative:TransportatioFirm\\TransportationFirm.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Menu_helper.cpp",
+              "DocumentMoniker": "C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\Menu_helper.cpp",
+              "RelativeDocumentMoniker": "TransportatioFirm\\Menu_helper.cpp",
+              "ToolTip": "C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\Menu_helper.cpp",
+              "RelativeToolTip": "TransportatioFirm\\Menu_helper.cpp",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAAAAUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T17:25:30.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\main.cpp",
+              "RelativeDocumentMoniker": "TransportatioFirm\\main.cpp",
+              "ToolTip": "C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\main.cpp",
+              "RelativeToolTip": "TransportatioFirm\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-25T17:25:20.392Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Driver.cpp",
+              "DocumentMoniker": "C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\Driver.cpp",
+              "RelativeDocumentMoniker": "TransportatioFirm\\Driver.cpp",
+              "ToolTip": "C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\Driver.cpp",
+              "RelativeToolTip": "TransportatioFirm\\Driver.cpp",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T21:35:02.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TransportationFirm.cpp",
+              "DocumentMoniker": "C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\TransportationFirm.cpp",
+              "RelativeDocumentMoniker": "TransportatioFirm\\TransportationFirm.cpp",
+              "ToolTip": "C:\\Users\\35989\\Desktop\\Uni\\3 kurs 2 sem\\proekt c\u002B\u002B\\final\\TransportatioFirm\\TransportatioFirm\\TransportationFirm.cpp",
+              "RelativeToolTip": "TransportatioFirm\\TransportationFirm.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-24T21:34:01.869Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
